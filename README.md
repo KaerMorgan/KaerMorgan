@@ -1,16 +1,16 @@
-## Hi there 👋
-### My name is **Danil Filatov**
+## Привет 👋
+### Меня зовут **Данил Филатов**
 
 
-- 🔭 I’m currently working on project for [*Yandex.Praktikum*](http://practicum.yandex.ru)
-- 🌱 I’m currently learning JavaScript modules
-- 📫 How to reach me:   
-telegram - @MorganKatarn  
-facebook - [Danil Filatov](https://www.facebook.com/danil.filatov.1/)  
+- 🔭 В данный момент я работаю над проектами для [*Yandex.Praktikum*](http://practicum.yandex.ru)
+- 🌱 Текущая тема для изучения - области видимости функции и методы перебора массивов
+- 📫 Как со мной связаться:   
+Телеграм - @MorganKatarn  
+Вконтакте - [Danil Filatov](https://vk.com/morgankatarn)  
 instagram - morgan_katarn
 
-- 😄 Pronouns: Dude
+- 😄 Местоимение: Чувак
 
-## 🕑 My statistics:
+## 🕑 Статистика:
 
 [![Danil's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaerMorgan&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
