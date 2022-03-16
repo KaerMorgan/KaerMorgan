@@ -9,4 +9,4 @@ My name is **Danil Filatov**
                        instagram - morgan_katarn
 - 😄 Pronouns: Dude
 
-[![Danil's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaerMorgan&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Danil's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaerMorgan&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
