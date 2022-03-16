@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning JavaScript modules
 - 📫 How to reach me:   
 telegram - @MorganKatarn  
-facebook - [Danil Filatov](https://www.facebook.com/danil.filatov.1/)
+facebook - [Danil Filatov](https://www.facebook.com/danil.filatov.1/)  
 instagram - morgan_katarn
 
 - 😄 Pronouns: Dude
