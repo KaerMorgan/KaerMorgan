@@ -13,7 +13,6 @@ instagram - morgan_katarn
 
 [![Danil's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaerMorgan&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:waka-->
 name: Waka Readme
 
 on:
@@ -30,4 +29,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ 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 }}
           GH_TOKEN: ${{ 3024fdb9-5409-410e-b0ef-cd82d8cc04c6 }}
-<!--END_SECTION:waka-->
+          
