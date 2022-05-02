@@ -34,5 +34,7 @@ instagram - morgan_katarn
 
 <!-- <img align="left" alt="NodeJS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" /> -->
 
+<!-- <img align="left" alt="ExpressJS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" /> -->
+
 <!-- <img align="left" alt="React" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" /> -->
 
