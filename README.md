@@ -3,11 +3,11 @@
 
 
 - 🔭 В данный момент я работаю над проектами для [*Yandex.Praktikum*](http://practicum.yandex.ru)
-- 🌱 Текущая тема для изучения - React
+- 🌱 Текущая тема для изучения - Node.JS
 - 📫 Как со мной связаться:   
 Телеграм - @MorganKatarn  
 Вконтакте - [Danil Filatov](https://vk.com/morgankatarn)  
-instagram - morgan_katarn
+LinkedIn - [Danil Filatov](https://www.linkedin.com/in/данил-филатов-b648b4240/)
 
 ## 🕑 Статистика:
 
@@ -36,5 +36,5 @@ instagram - morgan_katarn
 
 <!-- <img align="left" alt="ExpressJS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" /> -->
 
-<!-- <img align="left" alt="React" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" /> -->
+ <img align="left" alt="React" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" />
 
