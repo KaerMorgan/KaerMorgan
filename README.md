@@ -14,6 +14,8 @@ LinkedIn - [Danil Filatov](https://www.linkedin.com/in/данил-филатов
 [![Danil's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaerMorgan&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Навыки и языки:
+<img align="left" alt="React" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" />
+
 <img align="left" alt="JavaScript" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
 
 <img align="left" alt="CSS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
@@ -35,6 +37,3 @@ LinkedIn - [Danil Filatov](https://www.linkedin.com/in/данил-филатов
 <!-- <img align="left" alt="NodeJS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" /> -->
 
 <!-- <img align="left" alt="ExpressJS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" /> -->
-
- <img align="left" alt="React" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" />
-
