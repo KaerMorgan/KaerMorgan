@@ -13,7 +13,7 @@ LinkedIn - [Danil Filatov](https://www.linkedin.com/in/данил-филатов
 
 <figure><embed src="https://wakatime.com/share/@cf575faa-2a35-4410-b6cb-4170a1f7c692/bb690648-090c-4bd4-a3fe-54a83efc176c.svg"></embed></figure>
 
-### Навыки и языки:
+## Навыки и языки:
 <img align="left" alt="React" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" />
 
 <img align="left" alt="JavaScript" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
