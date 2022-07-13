@@ -11,7 +11,7 @@ LinkedIn - [Danil Filatov](https://www.linkedin.com/in/данил-филатов
 
 ## 🕑 Статистика:
 
-[![Danil's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaerMorgan&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<figure><embed src="https://wakatime.com/share/@cf575faa-2a35-4410-b6cb-4170a1f7c692/bb690648-090c-4bd4-a3fe-54a83efc176c.svg"></embed></figure>
 
 ### Навыки и языки:
 <img align="left" alt="React" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" />
