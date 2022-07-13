@@ -11,7 +11,7 @@ LinkedIn - [Danil Filatov](https://www.linkedin.com/in/данил-филатов
 
 ## 🕑 Статистика:
 
-<figure><embed src="https://wakatime.com/share/@cf575faa-2a35-4410-b6cb-4170a1f7c692/d3646eb7-3e61-44e7-99f6-e1fa062b2e68.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@cf575faa-2a35-4410-b6cb-4170a1f7c692/cf7c4fd1-1fd3-4842-9077-8b2f82d4c1c3.svg"></embed></figure>
 
 ## Навыки и языки:
 <img align="left" alt="React" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" />
