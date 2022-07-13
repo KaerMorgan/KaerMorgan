@@ -38,7 +38,7 @@ LinkedIn - [Danil Filatov](https://www.linkedin.com/in/данил-филатов
 
 <br />
 
-## 🕑 Статистика:
+## Статистика:
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@cf575faa-2a35-4410-b6cb-4170a1f7c692/ed1066f1-7f74-41ec-bfb8-caaff334ea1f.png" /></a>
 <figure><embed src="https://wakatime.com/share/@cf575faa-2a35-4410-b6cb-4170a1f7c692/2781da0c-0106-44f3-9a04-cbc1b9b4c30c.svg"></embed></figure>
