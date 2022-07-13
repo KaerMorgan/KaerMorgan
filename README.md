@@ -36,7 +36,7 @@ LinkedIn - [Danil Filatov](https://www.linkedin.com/in/данил-филатов
 
 <!-- <img align="left" alt="MongoDB" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" /> -->
 
----
+<br />
 
 ## 🕑 Статистика:
 
