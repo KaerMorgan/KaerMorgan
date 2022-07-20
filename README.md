@@ -15,23 +15,23 @@ LinkedIn - [Danil Filatov](https://www.linkedin.com/in/данил-филатов
 
 <!-- <img align="left" alt="NextJS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" /> -->
 
-<img align="left" alt="React" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" />
-
-<img align="left" alt="Redux" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" />
-
-<img align="left" alt="JavaScript" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
-
-<img align="left" alt="SASS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" /> 
-
 <img align="left" alt="NodeJS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" />
 
 <img align="left" alt="ExpressJS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" />
 
 <img align="left" alt="MongoDB" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" />
 
-<img align="left" alt="CSS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
+<img align="left" alt="React" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" />
+
+<img align="left" alt="Redux" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" />
+
+<img align="left" alt="SASS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" /> 
+
+<img align="left" alt="JavaScript" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
 
 <img align="left" alt="HTML" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
+
+<img align="left" alt="CSS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
 
 <img align="left" alt="Git" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />
 
