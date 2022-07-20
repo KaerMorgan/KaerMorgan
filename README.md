@@ -7,7 +7,7 @@
 - 📫 Как со мной связаться:   
 Телеграм - @MorganKatarn  
 Вконтакте - [Danil Filatov](https://vk.com/morgankatarn)  
-LinkedIn - [Danil Filatov](https://www.linkedin.com/in/данил-филатов-b648b4240/)
+LinkedIn - [Danil Filatov](https://www.linkedin.com/in/morgankatarn/)
 
 ## Навыки и языки:
 
