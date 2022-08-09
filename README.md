@@ -17,7 +17,7 @@ LinkedIn - [Danil Filatov](https://www.linkedin.com/in/morgankatarn/)
 
 <img align="left" alt="React" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" />
 
-<!-- <img align="left" alt="Redux" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" /> -->
+<img align="left" alt="Redux" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" />
 
 <img align="left" alt="SASS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" /> 
 
