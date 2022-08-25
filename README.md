@@ -3,7 +3,7 @@
 
 
 - 🔭 В данный момент я работаю над проектами для [*Yandex.Praktikum*](http://practicum.yandex.ru)
-- 🌱 Текущая тема для изучения - Node.JS
+- 🌱 Текущая тема для изучения - Jest
 - 📫 Как со мной связаться:   
 Телеграм - @MorganKatarn  
 Вконтакте - [Danil Filatov](https://vk.com/morgankatarn)  
@@ -28,6 +28,8 @@ LinkedIn - [Danil Filatov](https://www.linkedin.com/in/morgankatarn/)
 <img align="left" alt="ExpressJS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" />
 
 <img align="left" alt="MongoDB" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" />
+
+<img align="left" alt="Jest" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" />
 
 <img align="left" alt="HTML" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
 
