@@ -11,7 +11,7 @@ LinkedIn - [Danil Filatov](https://www.linkedin.com/in/morgankatarn/)
 
 ## Навыки и языки:
 
-<!-- <img align="left" alt="TypeScript" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" /> -->
+<img align="left" alt="TypeScript" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" />
 
 <!-- <img align="left" alt="NextJS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" /> -->
 
