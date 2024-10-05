@@ -3,17 +3,13 @@
 
 
 - 🔭 В данный момент я работаю в компании Крэлком
-<!-- - 🌱 Текущая тема для изучения - Jest -->
 - 📫 Как со мной связаться:   
-Телеграм - @MorganKatarn  
-Вконтакте - [Danil Filatov](https://vk.com/morgankatarn)  
+Телеграм - https://t.me/MorganKatarn
 LinkedIn - [Danil Filatov](https://www.linkedin.com/in/morgankatarn/)
 
 ## Навыки и языки:
 
 <img align="left" alt="TypeScript" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" />
-
-<!-- <img align="left" alt="NextJS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" /> -->
 
 <img align="left" alt="React" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" />
 
